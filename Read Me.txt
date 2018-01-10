@@ -1,0 +1,15 @@
+HOw TO RUN PROGRAM:
+
+1)> click on info to get information.
+
+2)> click on EXIT to get exit.
+
+3)> click on SIGNUP to get to signup page.
+
+4)> Enter the entries according to given instructions.
+
+5)> click on NOTICE to get the information.
+
+6)> click on BEGIN to start the Quiz.
+
+7)> you can click on EXIT to get out to result window.
